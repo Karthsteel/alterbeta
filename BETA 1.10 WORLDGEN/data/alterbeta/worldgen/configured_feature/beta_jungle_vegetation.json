@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "features": [
+      {
+        "chance": 1,
+        "feature": "alterbeta:oak_jungle_tree_big_checked"
+      },
+      {
+        "chance": 0.75,
+        "feature": "alterbeta:oak_jungle_tree_small_checked"
+      },
+      {
+        "chance": 0.5,
+        "feature": "alterbeta:oak_jungle_bush_checked"
+      }
+    ],
+    "default": "alterbeta:oak_jungle_tree_small_checked"
+  }
+}
